@@ -1,2 +1,2 @@
-# cuellaralan.PPLABIII3D
- primer parcial laboratorio 3 - Div3D
+# PPLABIII3D
+ primer parcial lab 3
